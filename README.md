@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-Built a diabetes prediction project using the PIMA Indians Diabetes Dataset. 
-Analyzed healthcare data to understand patterns in diabetes outcomes and developed an SVM-based classification model using Python.
+Built a diabetes prediction and healthcare data analysis project using the PIMA Indians Diabetes Dataset. Analyzed healthcare data to identify patterns in diabetes outcomes and developed an SVM-based classification model using Python.
 
 ## What I Did
 
